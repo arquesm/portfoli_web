@@ -9,7 +9,7 @@ https://arquesm.github.io/portfoli_web/
 
 2GP- 2122
 
-[Bertó García, Alejandra]()
+[Bertó García, Alejandra](https://sanbg8.github.io/p7_portfolio/)
 
 [Briz Ruiz, Gemma]()
 
@@ -17,25 +17,25 @@ https://arquesm.github.io/portfoli_web/
 
 [Coello Martínez, Pau](https://yoruneko482.github.io/p7_portfoli/)
 
-[Gilbert González, Denis Pierre]()
+[Gilbert González, Denis Pierre](https://thicclemon.github.io/p7_portfolio/)
 
-[Gómez Bellido, Adrián]()
+[Gómez Bellido, Adrián](https://adriangomezbellido.github.io/p7.portfolio/)
 
-[Gozalbo Mira, Sara]()
+[Gozalbo Mira, Sara](https://saragozalbo97.github.io/p7_porfoli/)
 
-[Guilló Cutillas, Lucía]()
+[Guilló Cutillas, Lucía](https://luciaguillo.github.io/p8_portfolio_web/)
 
-[Lucena Rodríguez, Isabel]()
+[Lucena Rodríguez, Isabel](https://isalucena.github.io/p8_portfolio/)
 
 [Martínez Martí, Raúl]()
 
 [Mira Egea, María]()
 
-[Mora Vida, Ana]()
+[Mora Vida, Ana](https://moravavi.github.io/p7_portfolio/)
 
 [Moscardó Querol, Mar]()
 
-[Mullor Colomer, Abril]()
+[Mullor Colomer, Abril](https://abrilmullor.github.io/p7_portfolio/)
 
 [Rivas Giménez, Carolina Ester]()
 
@@ -45,6 +45,6 @@ https://arquesm.github.io/portfoli_web/
 
 [Sellés Bernabeu, Nacor](https://nacorselles.github.io/p7_Portfolio/)
 
-[Semmouzi, Zineb]()
+[Semmouzi, Zineb](https://zinebsb.github.io/p7_portfolio/)
 
-[Tamarit Valls, Juan]()
+[Tamarit Valls, Juan](https://tamaritvj.github.io/p7_Portfolio/)
