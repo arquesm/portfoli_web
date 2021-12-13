@@ -15,7 +15,7 @@ https://arquesm.github.io/portfoli_web/
 
 [Catalán Ballester, Ana]()
 
-[Coello Martínez, Pau]()
+[Coello Martínez, Pau](https://yoruneko482.github.io/p7_portfoli/)
 
 [Gilbert González, Denis Pierre]()
 
@@ -43,7 +43,7 @@ https://arquesm.github.io/portfoli_web/
 
 [Saá Marzá, Noelia](https://noeliasaa.github.io/p7_Porfoli/)
 
-[Sellés Bernabeu, Nacor]()
+[Sellés Bernabeu, Nacor](https://nacorselles.github.io/p7_Portfolio/)
 
 [Semmouzi, Zineb]()
 
