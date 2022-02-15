@@ -14,12 +14,15 @@ body{
 ul{
     display: flex;
     flex-direction: column;
+    list-style-image: url('../img/fletxa.svg');
 }
 ul li{
     list-style-type: none;
-    margin: 0.9em;
-
+    /* margin: 0.9em; */
+    
+    /* list-style-type: none; */
 }
+
 ul li a{
     font-size: 1.2em;
 }
@@ -60,7 +63,7 @@ body>header p{
 }
 nav{
     width: 100%;
-    padding: 1.2em 0 0 0;
+    padding: 1.2em 0 0 2em;
 }
 ul{
     margin: 1em 0 0 0.5em;
@@ -74,16 +77,11 @@ main .container{
     display: grid;
     grid-gap: 1em;
     grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(4, 200px);
+    grid-template-rows: repeat(8, 200px);
     justify-content: center;
     /* background-color: aqua; */
 }
-main .container div{
-    height: auto;
-    display: flex;
-    flex-direction: column;
-    /* background: cornsilk; */
-}
+
 .container>div{
     display: flex;  
     flex-direction: column;
@@ -107,7 +105,7 @@ main a{
 main a:hover{
     color: blue;
 }
-.e1, .e2, .e3, .e4, .e5, .e6, .e7, .e8, .e9, .e10{
+.e1, .e2, .e3, .e4, .e5, .e6, .e7, .e8, .e9, .e10, .e11{
     background-color: blue;
 }
 .e1{
@@ -150,7 +148,12 @@ main a:hover{
     grid-column:4/5;
     grid-row:4/5;
 }
-.e1:hover, .e2:hover, .e3:hover, .e4:hover, .e5:hover, .e6:hover, .e8:hover{
+.e11{
+    grid-column:1/2;
+    grid-row:5/7;
+}
+
+.e1:hover, .e2:hover, .e3:hover, .e4:hover, .e5:hover, .e6:hover, .e8:hover, .e11:hover,{
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -177,6 +180,9 @@ main a:hover{
 }
 .e8:hover{
     background-image: url('../img/8.png');
+}
+.e11:hover{
+    background-image: url('../img/11.png');
 }
 
 
